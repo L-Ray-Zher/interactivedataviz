@@ -87,6 +87,8 @@ $ git merge upstream/main
 
 [Note: VS Code has some great [tools](https://code.visualstudio.com/docs/editor/versioncontrol#_git-support) built in to help with this process.]
 
+Before you start, make sure you are in your local repo folders.
+
 When you have made a change that you want to keep, you can commit your changes:
 
 ```sh
