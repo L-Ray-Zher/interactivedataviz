@@ -17,3 +17,8 @@ h3 {
 p {
   font-size: 1em;
 }
+
+.person1 {
+  font-size: 4em;
+  font-style: italic;
+}
