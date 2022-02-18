@@ -9,7 +9,7 @@ let petName;
 function petNameUpdate() {
     petName = input.value
     console.log(petName)
-    label.innerText = "Wow! I love the name: " + petName
+    label.innerText = "Wow! I love that name: " + petName
     button.innerText = "Name it again!"
     input.value = ""
 } 
